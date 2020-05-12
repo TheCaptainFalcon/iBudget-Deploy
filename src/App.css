@@ -1,0 +1,22 @@
+.App-nav, .App-nav a {
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+}
+
+.App-nav {
+  border: 1px solid black;
+  
+}
+
+
+
+.active-link {
+  color: white;
+  border: 1px solid white
+  
+}
+
+.link {
+  color:
+}

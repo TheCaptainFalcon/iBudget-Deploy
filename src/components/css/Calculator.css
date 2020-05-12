@@ -1,0 +1,81 @@
+.Calculator-form {
+    display: flex;
+    justify-content: space-around;
+}
+
+.formFieldset {
+    border: 1px solid;
+}
+
+.formLegend {
+    margin: 10px;
+    width: 15px;
+}
+
+.Calculator {
+    margin: 3% 10%;
+}
+
+.Calculator-bg {}
+
+.Calculator-summary{
+    margin-bottom: 5%;
+}
+
+.analysis {
+    margin-bottom: 5%
+}
+
+.Calculator-summary h1, .analysis h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.Card-summary h4, h3 {
+    display: flex;
+    justify-content: center;
+}
+
+.Calculator-income h2, .Calculator-expense h2, .Calculator-income input, .Calculator-expense input {
+    display: flex;
+    justify-content: center;
+}
+
+.income-content, .expense-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 3%;
+}
+
+#calc{
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    left:35%;
+    margin-top: 2%;
+    margin-bottom: 3%
+}
+
+#reset{
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    right: 35%;
+    margin-top: 2%;
+    margin-bottom: 3%
+}
+
+.deleteForm {
+    margin: auto 92%;
+    padding: 1%;
+    
+}
+
+.Card-analysis-history{
+    margin: 2%;
+}
+
+#history-cardDeck {
+    
+}

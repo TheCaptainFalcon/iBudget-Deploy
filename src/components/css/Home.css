@@ -1,0 +1,20 @@
+.Home {
+    margin: auto 10% auto 10%;
+    background: white;
+    text-align: center;
+}
+
+.Home h1 {
+    color: green;
+    border: 1px solid;
+}
+
+img {
+    width: 30%;
+    box-shadow: 1px 1px 1px 1px black;
+    
+}
+
+.Home-bg {
+    background: gray;
+}
